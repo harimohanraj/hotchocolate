@@ -1,4 +1,4 @@
-baseURL = "http://harimohanraj.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "kubla khan"
 theme = "xmin"
