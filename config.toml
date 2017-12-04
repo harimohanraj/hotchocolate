@@ -1,0 +1,4 @@
+baseURL = "http://harimohanraj.github.io"
+languageCode = "en-us"
+title = "kubla khan"
+theme = "xmin"
